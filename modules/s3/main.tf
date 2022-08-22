@@ -5,3 +5,4 @@ resource "aws_s3_bucket" "harshapatel" {
     Name = var.bucket_tag
   }
 }
+
