@@ -59,7 +59,7 @@ variable "ec2_name" {
 }
 variable "key_name" {
     description = "SSH keys to connect to ec2 instance"
-    default = "h-key"
+    default = "harsha"
 }
 
 
