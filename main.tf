@@ -1,6 +1,11 @@
 # configure aws provider
 provider "aws"  {
     region = var.region
+    access_key = "AKIA4CWKJZPJDDWGWNMD"
+    secret_key = "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"
+
+
+    
 }
 
 module "vpc" {
