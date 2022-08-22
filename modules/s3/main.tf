@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "b" {
+resource "aws_s3_bucket" "harshapatel" {
   bucket = var.bucket_name
 
   tags = {
